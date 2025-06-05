@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Bidhan Gupta
 
-<!--
-**bids4u/bids4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I hold a **Master of Information Technology (Professional)** from **Deakin University** (2023–2025), with a specialization in **Software and Services Development**.
 
-Here are some ideas to get you started:
+🎓 I completed my **Bachelor’s degree in Information Technology** from **Punjab Technical University** (2017–2021).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 I worked as a **Software Developer** at **InfoDevlopers Pvt. Ltd.** from **2021 to 2023**, contributing to backend systems, APIs, and cloud-native applications.
+
+---
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** JavaScript (JS), TypeScript (TS), C#
+- **Frameworks & Platforms:** Node.js, Express.js, .NET
+- **DevOps & Cloud:** Docker, Kubernetes
+- **Skills:** Containerization, REST APIs, Microservices, Cloud-Native Deployment
+
+---
+
+## 🚀 Interests & Focus
+
+- Building scalable full-stack web applications
+- Deploying modern containerized services
+- Backend development using Node.js and .NET
+- Kubernetes orchestration & CI/CD pipelines
+
+---
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/bidhan-babu-gupta/)
+- [Email](mailto:bidhanbabugupta@gmail.com)
+- [Portfolio Website](https://www.bidhangupta.com.np/)
+
+---
+
+> “Committed to developing clean, scalable, and impactful software solutions.”
